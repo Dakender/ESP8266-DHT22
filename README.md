@@ -11,7 +11,7 @@ My working copy of a miner and dht22 working together.
 * If you are trying to use something else, please don't ask for help because I probably don't know.
 
 1. ESP8266 NodeMCU LUA CH340 ESP-12E WiFi Internet Development Board 4M Flash Serial Wireless Module for Arduino IDE/Micropython New Version
-https://www.amazon.com/dp/B07RNX3W9J?psc=1&ref=ppx_yo2ov_dt_b_product_details
+* https://www.amazon.com/dp/B07RNX3W9J?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 2. Diymore DHT22 AM2302 Digital Temperature Humidity Sensor Module Replace SHT11 SHT15
-https://www.amazon.com/dp/B01IT2E4ZW?psc=1&ref=ppx_yo2ov_dt_b_product_details
+* https://www.amazon.com/dp/B01IT2E4ZW?psc=1&ref=ppx_yo2ov_dt_b_product_details
